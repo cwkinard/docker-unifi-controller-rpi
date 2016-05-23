@@ -1,0 +1,4 @@
+https://github.com/brice-morin/ArduPi/tree/master/mongodb-rpi
+
+Debian folder:
+https://github.com/skrabban/mongo-nonx86
